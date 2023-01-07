@@ -1,0 +1,14 @@
+vamos a testear analizando ubicar esta publicidad de pedidos ya: https://www.youtube.com/watch?v=D5m1-xNn0K4
+
+dentro de esta transmición de tyc: https://www.youtube.com/watch?v=Eww9zBKedug
+
+probando el código de https://www.youtube.com/watch?v=ZLIPkmmDJAc&t=306s para identificar canciones. (capuccian bird calls)
+este es su py file: https://github.com/nicknochnack/DeepAudioClassification/blob/main/AudioClassification.ipynb
+
+
+activate environment
+>>source venv/bin/activate
+
+create new environment
+>> python -m venv venv
+

@@ -1,0 +1,17 @@
+opencv-python==4.6.0.66
+readchar
+soundfile
+sounddevice
+numpy
+aiohttp==3.7
+protobuf==3.20.0
+ray==1.5.0
+subprocess32
+pyautogui
+natsort
+pyobjc
+psutil
+setproctitle
+pymsgbox
+ffmpeg
+ffprobe
