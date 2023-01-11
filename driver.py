@@ -18,6 +18,8 @@ from local_paths import *
 
 
 # Creates options for chromedriver
+#
+#
 
 def undetectable_options(chrome_profile_num = 0
                         ,incognito = False
